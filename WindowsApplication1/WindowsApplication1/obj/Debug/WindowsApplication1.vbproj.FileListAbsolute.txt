@@ -1,0 +1,11 @@
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\bin\Debug\LIC Database1.accdb
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Moms project rebuild\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
